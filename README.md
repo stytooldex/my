@@ -3,7 +3,7 @@
 作者开发软件滴:https://www.coolapk.com/apk/nico.styTool
 
 
-1.http://jingyan.baidu.com/article/2a13832890d08f074a134ff0.html(请从第二步看)
+1.http://jingyan.baidu.com/article/2a13832890d08f074a134ff0.html   (请从第二步看)
 
 2.导入:  import nico.my.StatusBarUtil;
 
