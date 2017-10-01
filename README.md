@@ -1,6 +1,6 @@
 # 简 
 
-作者开发软件滴:https://www.coolapk.com/apk/nico.styTool
+作者开发滴软件:https://www.coolapk.com/apk/nico.styTool
 
 
 1.http://jingyan.baidu.com/article/2a13832890d08f074a134ff0.html   (请从第二步看)
