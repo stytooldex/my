@@ -1,4 +1,5 @@
-# my
+# 简 
+
 作者开发软件滴:https://www.coolapk.com/apk/nico.styTool
 
 
@@ -7,7 +8,7 @@
 2.导入:  import nico.my.StatusBarUtil;
 
 
-状态栏白色（图标，文字）
+# 状态栏白色（图标，文字）
 
 
 StatusBarUtil.Bar(Activity activity);
@@ -16,7 +17,7 @@ StatusBarUtil.Bar(Activity activity);
 ?=StatusBarUtil.Bar(this);
 
 
-状态栏(颜色自己选择)（图标，文字)
+# 状态栏(颜色自己选择)（图标，文字)
 
 
 StatusBarUtil.Ba(Activity activity);
@@ -25,7 +26,7 @@ StatusBarUtil.Ba(Activity activity);
 ?=StatusBarUtil.Ba(this);
 
 
-设置状态栏颜色
+# 设置状态栏颜色
 
 
 StatusBarUtil.Bd(Activity activity,int color);
